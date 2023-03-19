@@ -1,5 +1,3 @@
-# Tugas-Arrya-Rangkaian-5
-
 import java.util.Scanner;
 
 public class TugasArrayNo1 {
